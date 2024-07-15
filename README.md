@@ -21,14 +21,14 @@ Este projeto teve a finalidade de criar um portal de campanhas de gamificação 
 
 ## Bibliotecas
 
-- Django
-- Bootstrap
-- SQLite
+- Django;
+- Bootstrap;
+- SQLite.
 
 ## Funcionalidades:
 
-- Cadastrar novos usuários com nome e idade.
-- Listar todos os usuários cadastrados em uma tabela.
+- Cadastrar novos usuários;
+- Listar todos os usuários cadastrados em uma tabela;
 - Salvar os dados em um banco SQLite.
 
 ## Código
