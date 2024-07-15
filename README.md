@@ -1,1 +1,1 @@
-# django-python
+# Este projeto teve a finalidade de criar portal de campanhas de gamificação onde administradores podem gerenciar campanhas e corretores podem participar dos desafios, porém somente a parte de cadastro foi finalizada.
